@@ -7,7 +7,8 @@ Why to log... What to log... When to log... How to log...
 > 
 > This is an entirely vendor-neutral, effort featuring examples from a variety of solutions. 
 > 
-> Each guide includes:
+
+## Index
 
 - [A Basic Overview Of What's In The logs And Where to Find Them](#a-basic-overview-of-whats-in-the-logs-and-where-to-find-them)
 - How to search or analyze logs to find valuable information
@@ -15,4 +16,4 @@ Why to log... What to log... When to log... How to log...
 - How to centralize or aggregate logs in a large distributed system
 
 
-### A Basic Overview Of What's In The logs And Where to Find Them
+## A Basic Overview Of What's In The logs And Where to Find Them
